@@ -55,6 +55,29 @@ section#login > div#imagem {
 
 section#login > div#formulario {
 
+    text-align: left;
+    
+}
+section#login > div#formulario > h1 {
+
+    margin-bottom: 10px;
+    text-align: center;
     padding: 10px;
     display: block;
+    font-size: 1em;
+}
+
+section#login > div#formulario > p {
+
+   font-size: 0.8em;
+   padding-left: 10px;
+}
+
+
+
+
+section#login > div.campo {
+
+
+  
 }
